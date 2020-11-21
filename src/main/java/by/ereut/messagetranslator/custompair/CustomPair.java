@@ -1,4 +1,4 @@
-package by.ereut.messagetranslator;
+package by.ereut.messagetranslator.custompair;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;

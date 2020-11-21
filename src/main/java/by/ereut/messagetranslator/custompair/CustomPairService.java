@@ -1,4 +1,4 @@
-package by.ereut.messagetranslator;
+package by.ereut.messagetranslator.custompair;
 
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;

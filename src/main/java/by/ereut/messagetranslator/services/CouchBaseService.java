@@ -1,7 +1,7 @@
 package by.ereut.messagetranslator.services;
 
-import by.ereut.messagetranslator.CustomPair;
-import by.ereut.messagetranslator.CustomPairService;
+import by.ereut.messagetranslator.custompair.CustomPair;
+import by.ereut.messagetranslator.custompair.CustomPairService;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
